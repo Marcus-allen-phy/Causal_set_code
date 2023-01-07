@@ -5,7 +5,4 @@ This repository contains a series of classes which create causal set simulations
 ## Structure
 
 - causal_sets: contains the classes necessary for both the sprinklings and the SMI calculations
-- docs: contains ipython notebooks with examples and tutorials
 - tests: contains unit tests (i.e. short, hard-coded tests which are not random and run fast)
-
-## Testing
